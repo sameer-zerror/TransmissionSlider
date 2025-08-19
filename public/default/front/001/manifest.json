@@ -1,0 +1,28 @@
+{
+  "name": "Cristobal Balenciaga Museoa Transmissions",
+  "short_name": "Transmissions",
+  "start_url": "https://cristobalbalenciagamuseoa.zorraquino.com/en/learn/fashion-school/transmissions/",
+  "description": "An education project around the legacy of Cristobal Balenciaga.",
+  "icons": [
+    {
+      "src": "/default/imagenes/t-favicons/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/default/imagenes/t-favicons/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/default/imagenes/t-favicons/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation": "portrait"
+}
