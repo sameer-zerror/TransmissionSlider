@@ -453,7 +453,7 @@ video {
     display: none;
   }
 }
-@media only screen and (min-width:1024){
+@media only screen and (min-width:1024px){
 
   .cards li.in-center a:hover .card__img > img {
     transform: scale(1.2);
